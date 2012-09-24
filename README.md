@@ -1,0 +1,4 @@
+S-Type-load-cell-615B--200kg-500kg--OIML-C3-standard
+====================================================
+
+PARAMETER UNIT TECHNICAL DATA Rated capacity (Emax) kg 200kg; 500kg Accuracy class C2Sensitivity mV/V 2.3± 0.04 Zero balance mV/V2Creep over 30min %0.02Temperature effect on zero %/ 0.003Temperature effect on output %/ 0.003Hysteresis % 0.02Linearity deviation % 0.02Repeatability % 0.02Nominal temperature range -10 to +40 Service temperature range -30 to +65 Limit load % of R.C. 150Break load % of R.C. 200Nominal excitation V 5~12 Max. excitation V 15Input impedance 405± 30 Output impedance 350± 3 Insulation resistance M 2000 Cable length M 2Cable type 4 conductors, Braid Shielded, Black PVC Jacket Color code +Exc -Red, +Sig-grn, -Exc-Blk, -Sig- Wht http://www.hzloadcell.com/pid11486987/S+Type+load+cell-615B%3a+200kg%3b500kg%2c+OIML+C3+standard.htm
